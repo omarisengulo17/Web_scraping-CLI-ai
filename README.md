@@ -126,13 +126,13 @@ Never commit your real API key to GitHub.
 
 The .env file is excluded using .gitignore.
 
-Running the Application
+**Running the Application**
 
 Start the CLI:
 
 py cli.py
 
-Choose an option from the menu.
+**Choose an option from the menu.**
 
 For example:
 
@@ -144,7 +144,7 @@ For example:
 4. Ask AI
 5. Exit
 
-Choose an option:
+**Choose an option:**
 
 Select 1 to scrape real jobs.
 
@@ -154,7 +154,7 @@ Select 3 to search jobs.
 
 Select 4 to ask the AI assistant questions about the available jobs.
 
-Technologies
+**Technologies**
 Python
 Requests
 BeautifulSoup
@@ -165,6 +165,6 @@ Security
 
 API keys and other environment secrets should be stored in .env and must not be committed to the repository.
 
-Author
+**Author**
 
 Omarisengulo17
